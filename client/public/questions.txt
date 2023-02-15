@@ -1,0 +1,4 @@
+Como manejar errores de una buena forma.
+Otras formas de usar el input date.
+
+

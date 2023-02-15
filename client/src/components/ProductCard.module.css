@@ -1,0 +1,9 @@
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 300px; /*Separa los elementos en columnas*/
+    /*row-gap hace lo mismo pero en filas*/
+    width: 50vw;
+    height: 100%;
+}

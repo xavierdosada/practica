@@ -1,0 +1,40 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    height: 70vh;
+    width: 30vw;
+    border-radius: 50px;
+    background-color: #90d5ec;
+    background-image: linear-gradient(315deg, #90d5ec 0%, #fc575e 74%);
+}
+
+.registerButton{
+    height: 30px;
+    background-color: #abe9cd;
+    background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+    color: white;
+    font-size: 20px;
+}
+
+input {
+    height: 25px;
+    width: 250px;
+    border-radius: 8px;
+    border-color: #fff;
+}
+
+.errorColor {
+    color: white;
+    font-size: 15px;
+}
